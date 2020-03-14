@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MentalMath</string>
+    <string name="XP">Total XP:</string>
+    <string name="Right">Total right:</string>
+    <string name="Wrong">Total wrong:</string>
+    <string name="XPValue">10,000</string>
+    <string name="Answer">Answer:</string>
+    <string name="Easy">Easy</string>
+    <string name="Medium">Medium</string>
+    <string name="Hard">Hard</string>
+    <string name="Easy_Unlock">(The easy quiz is unlocked with 100 XP)</string>
+    <string name="Medium_Unlock">(The medium quiz is unlocked with 500 XP)</string>
+    <string name="Hard_Unlock">(The hard quiz is unlocked with 1000 XP)</string>
+    <string name="Instruction">Instruction:</string>
+    <string name="Category">Category:</string>
+    <string name="Topic">Topic:</string>
+    <string name="Difficulty">Difficulty:</string>
+    <string name="history">History</string>
+    <string name="training">Training</string>
+    <string name="quizzes">Quizzes</string>
+    <string name="ToDo">TODO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
